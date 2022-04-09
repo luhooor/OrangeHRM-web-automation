@@ -6,6 +6,7 @@ Dependencies used:
 - Serenity BDD
 - Serenity Screenplay
 - Junit
+- Cucumber
 - will be added more...
 
 Webdriver used: Chromewebdriver
